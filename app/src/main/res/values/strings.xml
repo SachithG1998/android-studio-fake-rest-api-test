@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ApiPractice</string>
+    <string name="textViewName">Name</string>
+    <string name="textViewUsername">Username</string>
+    <string name="textViewEmail">Email</string>
+    <string name="textViewAddressStreet">Street Address</string>
+    <string name="textViewAddressSuite">Suite</string>
+    <string name="textViewAddressCity">City</string>
+    <string name="textViewAddressZipcode">Zip Code</string>
+    <string name="textViewUserID">Enter User ID:</string>
 </resources>
