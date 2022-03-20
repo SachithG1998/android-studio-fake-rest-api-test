@@ -5,8 +5,5 @@ data class User(
     val name: String,
     val username: String,
     val email: String,
-    var addressStreet: String,
-    var addressSuite: String,
-    var addressCity: String,
-    var addressZipcode: String,
+    val address: UserAddress,
 )

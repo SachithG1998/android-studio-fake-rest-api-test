@@ -52,10 +52,10 @@ class MainActivity : AppCompatActivity() {
                     editTextName.setText(user.name)
                     editTextUsername.setText(user.username)
                     editTextEmail.setText(user.email)
-                    editTextAddressStreet.setText(user.addressStreet)
-                    editTextAddressSuite.setText(user.addressSuite)
-                    editTextAddressCity.setText(user.addressCity)
-                    editTextAddressZipcode.setText(user.addressZipcode)
+                    editTextAddressStreet.setText(user.address.street)
+                    editTextAddressSuite.setText(user.address.suite)
+                    editTextAddressCity.setText(user.address.city)
+                    editTextAddressZipcode.setText(user.address.zipcode)
                 }
             }
 
