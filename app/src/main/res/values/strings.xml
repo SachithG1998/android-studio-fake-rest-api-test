@@ -8,4 +8,5 @@
     <string name="textViewAddressCity">City</string>
     <string name="textViewAddressZipcode">Zip Code</string>
     <string name="textViewUserID">Enter User ID:</string>
+    <string name="btnSearchUser">Search User</string>
 </resources>
